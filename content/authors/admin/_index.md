@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hu Chuan-Peng is an associate professor at School of Psychology, Nanjing Normal University, Nanjing, China. His research interests include social cognition (i.e., how human process self-related information), reproducibility (or, more broadly, meta-science), and Bayesian statistics. He values open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://open-sci.cn), a grassroot network for promoting awareness of reproducibility and open science using Chinese. He serves as an assisitant director of [Psychological Science Accelerator](https://psysciacc.org/), a distributed laboratory network.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his free time, Chuan-Peng loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ChuanPeng_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
